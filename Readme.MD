@@ -37,3 +37,7 @@ SELECT * FROM TABLE
 WHERE performance > 1000
 AND branch = 'Jakarta';
 `````
+````python
+for i in dataset:
+    i
+```
